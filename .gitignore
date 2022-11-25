@@ -361,3 +361,9 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/EasyLoad64.dll
+/EasyLoad32.dll
+/EasyHook64Svc.exe
+/EasyHook64.dll
+/EasyHook32Svc.exe
+/EasyHook32.dll
