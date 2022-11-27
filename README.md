@@ -5,20 +5,21 @@ This program must be run on Windows using [PS Remote Play](https://remoteplay.dl
 
 ## Installation
 🔔 **Download latest version [here](https://github.com/pjclas/penetratorbot/releases)!**
+Extract `PenetratorBot_v1.0.0.zip` to a folder of your choice.
 
->This program requires Microsoft .NET framework 4.8 or newer.
-Extract the `PenetratorBot_v1.0.0.zip` file and run `setup.exe` to install the application.
+> **Note:** This program requires Microsoft .NET framework 4.8 or newer.
 
 ## Usage
-Run the `Penetrator Bot` application from the Start Menu if you installed the Windows Installer version or `PenetratorBot.exe` from the command line if you downloaded the binaries.
-You can press 'q' to quit at any time.
+Open the folder where you installed the zip file and run `PenetratorBot.exe` to start the program.
+> **Note:** The `PS Remote Play` app must be running before you start PenetratorBot.
 
-The program will automatically handle any deaths (they should be rare other than network glitches).
+PenetratorBot is designed to run when you are at the main screen of the Penetrator game.  PenetratorBot will begin the game for you and keep track of any lives lost (although this should only occur due to rare button glitches or network issues).
+> **Important!** PS Remote Play must be in **full screen** mode for PenetratorBot to work properly.  PenetratorBot will automatically bring the PS Remote Play app to the foreground when you run the program.
+
+You can press 'q' to quit at any time.
 The program will end automatically if all lives are lost.
 
-Automation utility for PS4 Remote Play written in C# using [PS4RemotePlayInterceptor](https://github.com/komefai/PS4RemotePlayInterceptor).
-
-> NOTE: If you're using the touch button in the macro then disable it by going to Playback->Record On Touch
+> **Note:** PenetratorBot is designed to run at any resolution (as long we you are in full screen mode).  If you find the bot is not operating correctly at your resolution, please submit a bug report.
 
 ## Demo
 
