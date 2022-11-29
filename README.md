@@ -23,7 +23,7 @@ The program will end automatically if all lives are lost.
 
 ## Demo
 
-- [PenetratorBot earns 1 million points!](https://youtu.be/txI9AOEAk58)
+- [PenetratorBot earns 1 million points!](https://youtu.be/nb2ip_8mKwU)
 
 ## Credits
 
